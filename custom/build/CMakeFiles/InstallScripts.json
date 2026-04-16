@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/tindaro/wasm-micro-runtime-main/product-mini/app-samples/custom/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

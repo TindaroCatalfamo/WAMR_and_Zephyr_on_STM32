@@ -1,0 +1,3 @@
+/home/tindaro/wasm-micro-runtime-main/product-mini/app-samples/custom/build/CMakeFiles/binarydump.dir
+/home/tindaro/wasm-micro-runtime-main/product-mini/app-samples/custom/build/CMakeFiles/edit_cache.dir
+/home/tindaro/wasm-micro-runtime-main/product-mini/app-samples/custom/build/CMakeFiles/rebuild_cache.dir
